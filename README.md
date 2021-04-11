@@ -8,5 +8,5 @@ When downloading, make sure the file layout reflects the following format:
             > webscrapetest.py
 <p>
 NOTE: 
-Files will be exported to the **directory in which the main program resides**. This will be updated shortly.
+    Files will be exported to the <b>directory in which the main program resides</b>. This will be updated shortly.
 </p></p>
