@@ -6,7 +6,3 @@ When downloading, make sure the file layout reflects the following format:
     - main_scrape.py
         - Inner_Folder
             - webscrapetest.py
-
-NOTE: 
-    Files will be exported to the **directory in which the main program resides**. This will be updated shortly.
-
